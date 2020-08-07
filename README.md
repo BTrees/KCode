@@ -5,11 +5,6 @@
  * @author Bill Woods
  * @date 07-26-20
  *
- * This application is written for the Portals Platform team in Maryland Heights, MO,
- * as a homework assignment of sample code using Java, Spring Boot, REST
- * and various other relevant technologies as determined to express
- * skill in being able to write and present such working code.
- *
  *
  * A record of every transaction for a customer is provided for a three month period.
  * This module will then calculate the reward points earned and their totals for
